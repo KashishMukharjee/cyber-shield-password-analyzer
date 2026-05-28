@@ -19,6 +19,8 @@ Cyber Shield is a Python-based cybersecurity desktop application that analyzes p
 ## Purpose
 This project demonstrates password security evaluation and secure authentication practices.
 
-## Run Locally
-[pip install customtkinter
-python cyber_shield.py](https://github.com/yourusername/cyber-shield-password-analyzer)
+
+## Run Project
+
+pip install customtkinter
+python cyber_shield.py
